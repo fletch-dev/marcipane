@@ -1,7 +1,34 @@
 # NAME: Proxy
-# AUTHOR: Misha Tugushev
+# AUTHOR: Fletch
 # REPO: https://github.com/fletch-dev/marcipane
-# UPDATED: 2024-08-10 10:25:00
+# UPDATED: 2024-09-30 11:29:00
+DOMAIN-SUFFIX,rutracker.cc
+DOMAIN-SUFFIX,onlinesim.io
+DOMAIN-SUFFIX,kino.pub
+DOMAIN-SUFFIX,jetbrains.com
+DOMAIN-SUFFIX,www.youtube.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,i.ytimg.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,digitalocean.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,smartbear.co
+DOMAIN-SUFFIX,smartbear.com
+DOMAIN-SUFFIX,trust.zone
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,rutracker.org
+DOMAIN-SUFFIX,kinozal.tv
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,dl.discordapp.net
+DOMAIN-SUFFIX,cdn.discordapp.com
+DOMAIN-SUFFIX,gateway.discord.gg
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.media
+DOMAIN-SUFFIX,discordapp.net
+DOMAIN-SUFFIX,filmix.fm
 DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,aol.com
@@ -35,8 +62,6 @@ DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,nnmclub.to
 DOMAIN-SUFFIX,netpeaksoftware.com
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,quora.com
