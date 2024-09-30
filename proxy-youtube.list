@@ -1,5 +1,5 @@
 # NAME: Proxy
-# AUTHOR: Misha Tugushev
+# AUTHOR: fork from Misha Tugushev
 # REPO: https://github.com/fletch-dev/marcipane
 # UPDATED: 2024-08-05 13:55:00
 DOMAIN-SUFFIX,googlevideo.com
